@@ -1,5 +1,5 @@
 _repo: King-Henry-VIII_1802
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Drama'
 - !lcsh 'Historical drama'
+- GITenberg
 title: King Henry VIII
 url: http://www.gutenberg.org/ebooks/1802
